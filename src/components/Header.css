@@ -1,0 +1,19 @@
+/* body {
+    background-color: white;
+    float: left;
+} */
+
+a {
+  text-decoration: none;
+  color: black;
+  text-shadow: 0 0 1px rgb(0 0 0 / 60%), 0 0 3px rgb(0 0 0 / 50%),
+    0 0 0.5rem rgb(0 0 0 / 30%), 0 0 2rem rgb(0 0 0 / 20%);  
+}
+
+a:hover {
+    text-decoration: none;
+  color: black;
+  text-shadow: 0 0 1px rgb(0 0 0 / 60%), 0 0 3px rgb(0 0 0 / 50%),
+    0 0 0.5rem rgb(0 0 0 / 30%), 0 0 2rem rgb(0 0 0 / 20%);   
+}
+

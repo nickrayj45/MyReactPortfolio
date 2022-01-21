@@ -1,0 +1,29 @@
+.card-img {
+ margin: 10px;
+} 
+
+/* .card-img:hover{
+
+} */
+
+.portfolio {
+  width: 80%;
+  
+}
+
+.project-col {
+  display: flex;
+  justify-content: center;
+}
+
+.project-card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.project-buttons {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 10px;
+}
